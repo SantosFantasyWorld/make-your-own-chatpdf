@@ -38,3 +38,7 @@ Then, you can ask questions in your chatpdf
 
 # Reproduction Process (Design Process)
 [link](Reproduction%20Process.md)
+
+# Resources
+https://github.com/akshata29/chatpdf.git
+https://github.com/bhaskatripathi/pdfGPT.git
