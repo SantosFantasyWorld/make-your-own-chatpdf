@@ -86,10 +86,10 @@ Here is the detailed explanation of the code:
 - st.title("Ask your PDF"): Use the st.title function to display the title "Ask your PDF" on the web page.
 - pdf = st.file_uploader("Upload your PDF", type="pdf"): Use the st.file_uploader function to create a file uploader on the web page, allowing users to upload PDF files. The prompt text for the file uploader is "Upload your PDF", and it only accepts PDF files.
 - if pdf is not None:: Use an if statement to check if a PDF file has been uploaded by the user (i.e., pdf is not None). If a file has been uploaded, execute the following code block:
-- pdf_reader = PdfReader(pdf): Create a PdfReader instance to read the uploaded PDF file.
-- text = "": Initialize an empty string variable text to store the extracted text from the PDF file.
-- for page in pdf_reader.pages:: Iterate through each page of the PDF file and execute the following code block:
-- text += page.extract_text(): Use the extract_text() method to extract the text from the current page and append it to the text variable.
+    - pdf_reader = PdfReader(pdf): Create a PdfReader instance to read the uploaded PDF file.
+    - text = "": Initialize an empty string variable text to store the extracted text from the PDF file.
+    - for page in pdf_reader.pages:: Iterate through each page of the PDF file and execute the following code block:
+    - text += page.extract_text(): Use the extract_text() method to extract the text from the current page and append it to the text variable.
 
    ### Split Text
 
