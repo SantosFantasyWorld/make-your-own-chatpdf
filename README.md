@@ -1,40 +1,40 @@
-# 复现一个属于自己的chatpdf
+# Reproduce Your Own Chatpdf
 
-1. 隐私性好处：通过创建和使用自己的Chatpdf，您可以确保您的对话和数据在本地存储和处理，而不是在外部服务器上。这样可以更好地保护您的隐私和数据安全，避免潜在的数据泄露或滥用。
-2. 拓展应用场景：自己复现的Chatpdf可以根据特定需求进行定制和优化。例如，您可以将其应用于智能客服领域，通过训练和调整模型以适应您的业务场景，使其能更好地理解和回应客户需求。
+Benefits of Privacy: By creating and using your own Chatpdf, you can ensure that your conversations and data are stored and processed locally instead of on external servers. This provides better protection for your privacy and data security, avoiding potential data leaks or misuse.
+Expanded Application Scenarios: A reproduced Chatpdf can be customized and optimized according to specific needs. For example, you can apply it in the field of intelligent customer service by training and adjusting the model to adapt to your business scenarios, enabling better understanding and response to customer demands.
 
-# 关于这个项目
+# About This Project
 
-**项目简介**：介绍 Chatpdf 的原理和复现，降低使用门槛，让更多感兴趣的非NLP或算法专业人士能够无障碍使用LLM创造价值。
+**Project Overview:** Introduce the principles and reproduction of Chatpdf, lowering the entry barrier so that more non-NLP or algorithm professionals who are interested can use LLM to create value effortlessly.
 
-**项目亮点**
+**Project Highlights**
 
-- 对复现过程有详细的背景和系统设计介绍。
-- 提供示例代码和实现流程
+- Detailed background and system design introduction to the reproduction process.
+- Provide sample code and implementation procedures
 
-**项目展示**
+**Project Showcase**
 
-运行代码后会出现自动在你的浏览器上跑出一个网页
+After running the code, an automatically generated webpage will open in your browser.
 
 ![image-20230507083120469](image/image-20230507083120469.png)
 
-注意，这个网页是本地的，因为我穷，买不起域名和服务器:cry::cry::cry:,有条件的同学可以自己做个网页啥的
+Please note that this webpage is local since I'm poor and can't afford a domain or server:cry::cry::cry: If you have the money, you can create your own webpage.
 
-这个部分是用来上传文件的：
+This section is used for uploading files:
 
 ![image-20230507083406697](image/image-20230507083406697.png)
 
-上传成功后会出现一个文本框：
+After a successful upload, a text box will appear:
 
 ![image-20230507084225938](image/image-20230507084225938.png)
 
-然后你就可以问问题了
+Then, you can ask questions in your chatpdf
 
-**项目要求**
+**Project Requirements**
 
-- 需要有自己的openai 的api key
-- 使用vscode编译器
-- 需要有python基础
+- You need to have your own OpenAI API key.
+- Use the VS Code editor.
+- Basic knowledge of Python is required
 
-# 复现流程（设计过程）
-[link](复现流程.md)
+# Reproduction Process (Design Process)
+[link](Reproduction Process.md)
