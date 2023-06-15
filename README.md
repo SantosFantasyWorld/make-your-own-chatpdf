@@ -40,5 +40,5 @@ Then, you can ask questions in your chatpdf
 [link](Reproduction%20Process.md)
 
 # Resources
-https://github.com/akshata29/chatpdf.git /n
-https://github.com/bhaskatripathi/pdfGPT.git
+<div>https://github.com/akshata29/chatpdf.git<div>
+<div>https://github.com/bhaskatripathi/pdfGPT.git<div>
