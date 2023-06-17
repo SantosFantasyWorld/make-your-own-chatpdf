@@ -42,3 +42,4 @@ Then, you can ask questions in your chatpdf
 # Resources
 <div>https://github.com/akshata29/chatpdf.git<div>
 <div>https://github.com/bhaskatripathi/pdfGPT.git<div>
+<div>https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai<div>
